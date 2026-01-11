@@ -1,0 +1,43 @@
+ServiceHive AI CRM is a cloud-based SaaS platform designed to help startups and small to mid-sized businesses capture, manage, and qualify customer leads automatically.
+
+The platform uses an AI-powered conversational assistant to engage website visitors in real time, answer product-related questions, and identify users with high purchase intent.
+
+Key Features:
+
+1. AI-Powered Conversational Chat
+ServiceHive provides an intelligent website chat assistant that can answer frequently asked questions about the product, pricing, and features. The chat assistant is designed to guide users through the product offering and encourage meaningful interactions.
+
+2. Automatic Lead Detection and Qualification
+The system analyzes user messages to detect buying intent such as demo requests, pricing inquiries, or contact requests. When high intent is detected, ServiceHive automatically initiates a lead capture flow.
+
+3. Lead Capture and Management
+ServiceHive collects essential lead details such as name, email address, company name, and interest level. These leads are stored in a centralized CRM dashboard where sales teams can track and manage them efficiently.
+
+4. CRM Dashboard
+The CRM dashboard provides a clear overview of all captured leads, their status, and interaction history. Sales teams can update lead status, add notes, and prioritize follow-ups.
+
+5. Integrations with Sales and Communication Tools
+ServiceHive integrates with popular email platforms and sales tools to automate follow-up emails, notifications, and lead handoffs to sales teams.
+
+Pricing Plans:
+
+- Starter Plan (Free):
+  Suitable for early-stage startups.
+  Includes basic chat functionality and limited lead capture.
+
+- Growth Plan ($49 per month):
+  Designed for growing businesses.
+  Includes full AI chat, advanced lead qualification, and CRM dashboard access.
+
+- Enterprise Plan (Custom Pricing):
+  Built for larger organizations.
+  Includes custom workflows, advanced analytics, priority support, and dedicated onboarding.
+
+Use Cases:
+
+- SaaS companies using AI chat to capture demo and trial requests
+- Startups automating inbound lead qualification without manual effort
+- Sales teams reducing response time and improving conversion rates
+- Marketing teams tracking user interest from website conversations
+
+ServiceHive AI CRM helps businesses turn casual website visitors into qualified leads through intelligent conversations and automated workflows.
